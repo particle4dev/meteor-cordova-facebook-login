@@ -67,10 +67,7 @@ public class demologinfb extends CordovaActivity
         } catch (NoSuchAlgorithmException e) {
 
         }
-        
-        
-        
-        
+
         super.init();
         // Set by <content src="index.html" /> in config.xml
         super.loadUrl(Config.getStartUrl());

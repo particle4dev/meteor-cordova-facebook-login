@@ -170,10 +170,10 @@
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/index.html \
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/7a0c3da108620d2fa80b2dff7094a91a213f90bb.css \
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/favicon.ico \
-/var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/d25660721c3630a347f09b8e049183856e20b6ea.js \
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/fonts \
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/sound \
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/images \
+/var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/fd6bc80356b6add4bb6ec768c846d911eba06060.js \
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/js \
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/head.html \
 /var/www/js/example/facebook-cordova-login/meteor/.meteor/local/cordova-build/platforms/android/assets/www/application/program.json \
