@@ -1,0 +1,3 @@
+/**
+ * set permissions rule
+ */

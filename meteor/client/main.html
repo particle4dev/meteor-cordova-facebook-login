@@ -1,0 +1,24 @@
+<head>
+    <title>site name</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta content="/favicon.png" itemprop="image"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <link rel="shortcut icon" href="/favicon.png"/>
+</head>
+
+<body>
+    {{> loginFacebook}}
+</body>
+
+<template name="loginFacebook">
+    <button href="#facebook" class="login-button button button-block button-positive activated" data-service="facebook" id="loginFacebookButton">
+        Sign In With Facebook
+    </button>
+    <button class="logout-button" type="button">Logout</button>
+
+    {{> user}}
+</template>
+
+<template name="user">
+    <img src="{{ image }}" alt="Mountain View" style="width:304px; height:228px">
+</template>

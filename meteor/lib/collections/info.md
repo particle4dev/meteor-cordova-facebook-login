@@ -1,0 +1,1 @@
+define new collection on both client and server side

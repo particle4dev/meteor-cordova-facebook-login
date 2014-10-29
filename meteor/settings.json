@@ -1,0 +1,24 @@
+{
+    "cordova": {
+        "com.phonegap.plugins.facebookconnect": {
+           "APP_ID": "603073779802324",
+           "APP_NAME": "demo-meteor-login",
+           "secret": "c2b9963343e5797775f1c15a1b868383"
+        }
+    },
+    "public": {
+        "facebook": {
+            "permissions": [
+                "public_profile",
+                "user_interests",
+                "user_activities",
+                "read_friendlists"
+            ],
+            "profileFields": [
+                "name",
+                "gender",
+                "location"
+            ]
+        }
+    }
+}

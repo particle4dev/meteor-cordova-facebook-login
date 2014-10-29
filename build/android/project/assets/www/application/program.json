@@ -1,0 +1,74 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "d25660721c3630a347f09b8e049183856e20b6ea.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/d25660721c3630a347f09b8e049183856e20b6ea.js",
+      "size": 425602,
+      "hash": "d25660721c3630a347f09b8e049183856e20b6ea"
+    },
+    {
+      "path": "7a0c3da108620d2fa80b2dff7094a91a213f90bb.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/7a0c3da108620d2fa80b2dff7094a91a213f90bb.css?meteor_css_resource=true",
+      "size": 7336,
+      "hash": "7a0c3da108620d2fa80b2dff7094a91a213f90bb"
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "app/fonts/info.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/info.md",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "app/images/info.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/info.md",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "app/js/info.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/js/info.md",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "app/sound/info.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/sound/info.md",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "5f843f2959b2cd23a2e480e6adbc9325ee3be43d"
+    }
+  ]
+}
