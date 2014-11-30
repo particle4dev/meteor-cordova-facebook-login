@@ -1,0 +1,2 @@
+meteor-cordova-facebook-login
+=============================
